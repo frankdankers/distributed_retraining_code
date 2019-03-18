@@ -1,4 +1,4 @@
-# distributed_retraining_code
+# Distributed Retraining Code
 
 The code in this repository was used to generate the results in the study referenced below.
 
